@@ -433,7 +433,7 @@ h1, h2, h3 {
 .page-header {
     text-align: center;
     padding: 3rem 2rem 2rem;
-    background: #000000 url('/Readify-webapp/assets/images/Background/recommender.webp');
+    background: #000000 url('../assets/images/Background/recommender.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
