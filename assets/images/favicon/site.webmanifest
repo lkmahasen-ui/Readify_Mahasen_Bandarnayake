@@ -3,24 +3,24 @@
   "short_name": "Readify",
   "icons": [
     {
-      "src": "assets/images/favicon/icon-192.png",
+      "src": "/Readify_Mahasen_Bandarnayake/assets/images/favicon/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "assets/images/favicon/icon-512.png",
+      "src": "/Readify_Mahasen_Bandarnayake/assets/images/favicon/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "assets/images/favicon/icon-192.png",
+      "src": "/Readify_Mahasen_Bandarnayake/assets/images/favicon/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "assets/images/favicon/icon-512.png",
+      "src": "/Readify_Mahasen_Bandarnayake/assets/images/favicon/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
