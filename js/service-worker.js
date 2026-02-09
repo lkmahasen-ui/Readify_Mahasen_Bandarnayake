@@ -33,15 +33,15 @@ const urlsToCache = [
   'js/tracker.js',
 
   // Favicon & manifest
-  'assets/images/favicon/favicon-16x16.png',
-  'assets/images/favicon/favicon-32x32.png',
-  'assets/images/favicon/favicon-96x96.png',
-  'assets/images/favicon/favicon.ico',
-  'assets/images/favicon/favicon.svg',
-  'assets/images/favicon/apple-touch-icon.png',
-  'assets/images/favicon/icon-192.png',
-  'assets/images/favicon/icon-512.png',
-  'assets/images/favicon/site.webmanifest',
+  '../assets/images/favicon/favicon-16x16.png',
+  '../assets/images/favicon/favicon-32x32.png',
+  '../assets/images/favicon/favicon-96x96.png',
+  '../assets/images/favicon/favicon.ico',
+  '../assets/images/favicon/favicon.svg',
+  '../assets/images/favicon/apple-touch-icon.png',
+  '../assets/images/favicon/icon-192.png',
+  '../assets/images/favicon/icon-512.png',
+  '../assets/images/favicon/site.webmanifest',
 
   // background images
   'assets/images/Background/bookexplorer.jpg',
